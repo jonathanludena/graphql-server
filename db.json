@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Dash",
+      "phone": "034-1234567",
+      "street": "Calle X",
+      "city": "Saturno",
+      "id": "3d59460-3436-11e9-bc57-8b80ba54c431"
+    },
+    {
+      "name": "Brash",
+      "phone": "044-1234567",
+      "street": "Calle Y",
+      "city": "Urano",
+      "id": "3d59470-3436-11e9-bc57-8b80ba54c431"
+    },
+    {
+      "name": "Icaro",
+      "street": "Calle Z",
+      "city": "Neptuno",
+      "id": "3d59471-3436-11e9-bc57-8b80ba54c431"
+    }
+  ]
+}
